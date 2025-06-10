@@ -10,7 +10,7 @@ This project presents a comprehensive analysis of supermarket sales trends using
 ---
 
 ## Dataset Description
-- **Source**: [Kaggle – Supermarket Sales Data by Aung Pyae](supermarket_sales_original.csv)
+- **Source**: [Supermarket Sales Data by Aung Pyae](supermarket_sales_original.csv) (originally from Kaggle, now removed)
 - **Coverage**: January 2019 – March 2019, 3 branches in Myanmar
 - **Size**: 1000 rows × 17 columns
 - **Features**:
